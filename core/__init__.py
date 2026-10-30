@@ -1,0 +1,2 @@
+
+"""Core application setup for NoorixBot."""
